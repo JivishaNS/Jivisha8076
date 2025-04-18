@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Jivisha Corporate Consultancy</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f9f9f9; color: #333; }
+    header { background: #003366; color: white; padding: 1.5rem; text-align: center; }
+    nav { background: #005599; padding: 1rem; text-align: center; }
+    nav a { color: white; margin: 0 1rem; text-decoration: none; font-weight: bold; }
+    .hero { padding: 3rem; background: #e0f2f1; text-align: center; }
+    .section { padding: 2rem; background: white; margin: 1rem auto; max-width: 1000px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+    footer { background: #003366; color: white; text-align: center; padding: 1rem; margin-top: 2rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Jivisha Corporate Consultancy</h1>
+    <p>Trusted Solutions. Simplified.</p>
+  </header>
+  <nav>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#testimonials">Testimonials</a>
+    <a href="#contact">Contact</a>
+  </nav>
+  <div class="hero">
+    <h2>Empowering Businesses with Reliable Compliance & Consultancy</h2>
+    <p>Your success is our responsibility.</p>
+  </div>
+  <div id="about" class="section">
+    <h3>About Us</h3>
+    <p>We are a dedicated team providing end-to-end corporate compliance, GST, and business consultancy solutions tailored to individual client needs. With a strong foundation of trust and experience, we strive to make your business journey smoother and more efficient.</p>
+  </div>
+  <div id="services" class="section">
+    <h3>Our Services</h3>
+    <ul>
+      <li>GST Registration & Filing</li>
+      <li>Company Incorporation & ROC Compliance</li>
+      <li>Business Setup Consultancy</li>
+      <li>Legal Drafting & Documentation</li>
+    </ul>
+  </div>
+  <div id="testimonials" class="section">
+    <h3>Client Testimonials</h3>
+    <p><strong>Simran M.</strong>: "Jivisha helped me recover my father's old GST ID and file returns with zero stress. Their approach was quick, smart, and stress-free. Highly recommended!"</p>
+    <p><strong>More Coming Soon...</strong></p>
+  </div>
+  <div id="contact" class="section">
+    <h3>Contact Us</h3>
+    <p>Email: support@jivishaconsultancy.in</p>
+    <p>Phone: +91 98765 43210</p>
+    <p>Location: Pune, Maharashtra</p>
+  </div>
+  <footer>
+    <p>&copy; 2025 Jivisha Corporate Consultancy. All rights reserved.</p>
+  </footer>
+</body>
+</html>
